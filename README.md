@@ -1,4 +1,4 @@
-#📊Employee Attrition Analysis Report
+# 📊Employee Attrition Analysis Report
 
 **📝 Overview**
 * This project focuses on analyzing employee attrition using machine learning and data analytics. Attrition (employee turnover) is a critical challenge for organizations, and identifying the key factors leading to attrition can help in strategic decision-making. This notebook uses real-world data to build predictive models and generate actionable insights for HR departments.
@@ -97,7 +97,7 @@
 
 
 **▶️ Run the Notebook**
-*You can open and run the notebook in Google Colab,jupyter notebook.
+* You can open and run the notebook in Google Colab,jupyter notebook.
 
 
 **📌 Future Improvements**
