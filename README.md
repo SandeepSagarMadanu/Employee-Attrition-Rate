@@ -1,7 +1,9 @@
 # 📊Employee Attrition Analysis Report	
+<br>
 
 **📝 Overview**
 * This project focuses on analyzing employee attrition using machine learning and data analytics. Attrition (employee turnover) is a critical challenge for organizations, and identifying the key factors leading to attrition can help in strategic decision-making. This notebook uses real-world data to build predictive models and generate actionable insights for HR departments.
+<br>
 
 **📂 Contents**
 * Data Cleaning & Preprocessing
@@ -15,13 +17,13 @@
 * Model Evaluation
 
 * Key Insights & Conclusion
-  
+<br>
 
 **📁 Dataset**
 * The dataset contains features related to employee demographics, job roles, work environment, and compensation.
 
 * Target variable: Attrition (Yes/No)
-  
+<br>
 
 *Sample features:*
 
@@ -42,16 +44,16 @@
 * Environment Satisfaction
 
 * Work-Life Balance
+<br>
   
-
 **📊 Exploratory Data Analysis**
 * Visualized distributions of key categorical and numerical features.
 
 * Compared attrition rates across different job roles, departments, and satisfaction levels.
 
 * Identified correlations between features using heatmaps and pairplots.
+<br>
   
-
 **⚙️ Machine Learning Models**
 * Several classification algorithms were implemented and evaluated:
 
@@ -66,6 +68,7 @@
 * K-Nearest Neighbors
 
 * Support Vector Machine
+<br>
 
 
 **🧪 Model Evaluation**
@@ -82,8 +85,7 @@
 * Confusion Matrix
 
 * ROC-AUC Score
-
-
+<br>
 
 **💡 Key Insights**
 * High attrition was observed among employees with low job satisfaction and poor work-life balance.
@@ -91,15 +93,15 @@
 * Monthly income, years at company, and overtime status were strong predictors of attrition.
 
 * Departments like Sales and Human Resources showed higher attrition rates.
-
+<br>
 
 **🔚 Conclusion**
 * The analysis demonstrates that machine learning can effectively identify employees at risk of attrition. These insights can help HR teams proactively address employee concerns and improve retention strategies.
-
+<br>
 
 **▶️ Run the Notebook**
 * You can open and run the notebook in Google Colab,jupyter notebook.
-
+<br>
 
 **📌 Future Improvements**
 * Use SHAP/LIME for model interpretability.
