@@ -1,4 +1,4 @@
-# 📊Employee Attrition Analysis Report
+# 📊Employee Attrition Analysis Report	
 
 **📝 Overview**
 * This project focuses on analyzing employee attrition using machine learning and data analytics. Attrition (employee turnover) is a critical challenge for organizations, and identifying the key factors leading to attrition can help in strategic decision-making. This notebook uses real-world data to build predictive models and generate actionable insights for HR departments.
@@ -21,8 +21,9 @@
 * The dataset contains features related to employee demographics, job roles, work environment, and compensation.
 
 * Target variable: Attrition (Yes/No)
+  
 
-* Sample features:
+*Sample features:*
 
 * Age
 
@@ -90,7 +91,7 @@
 * Monthly income, years at company, and overtime status were strong predictors of attrition.
 
 * Departments like Sales and Human Resources showed higher attrition rates.
-* 
+
 
 **🔚 Conclusion**
 * The analysis demonstrates that machine learning can effectively identify employees at risk of attrition. These insights can help HR teams proactively address employee concerns and improve retention strategies.
